@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<iframe src="https://giphy.com/embed/h408T6Y5GfmXBKW62l" width="480" height="426" frameBorder="0" class="giphy-embed" allowFullScreen>
+<img src="https://media4.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif?cid=ecf05e47bvd2bsmjtcdrha4s0u5jozsekm4lpo24md2ngk5p&rid=giphy.gif&ct=g" width="100"/>
 </div>
 
 ### Hi there! I'm Diego Bravi. 👋
