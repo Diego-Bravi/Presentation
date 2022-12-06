@@ -4,7 +4,7 @@
 
 ### Hi there! I'm Diego Bravi. 👋
 
--Im a Current Student, Waiting for my first job opportunity!
+-Im a Current Student, Im passionate about technology and I am looking for the opportunity to have my first job as a programmer!
 
 
 <h2>-I learned Differents Lenguages :</h2>
