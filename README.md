@@ -22,7 +22,9 @@
 <div style="display: inline-block"> 
   <h3> Back End Development </h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  title="MySQL" alt="MySQL" width="80" height="80" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  title="Node" alt="Node" width="80" height="80"/>&nbsp;          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  title="Node" alt="Node" width="80" height="80"/>&nbsp; 
+  <img src="  https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"  title="POSTMAN" alt="POSTMAN" width="80" height="80"/>&nbsp; 
+
 </div>
 
 <h2>Contact me</h2>
