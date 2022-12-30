@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://media2.giphy.com/media/KiMBUPZUhUg4HRV6PW/giphy.gif?cid=ecf05e47rigdqlhfv6wrfg68si5vh1ybmsdci3mdwqpchut1&rid=giphy.gif&ct=g" width="130"/>
+<[img src="https://camo.githubusercontent.com/b2213aad903c8ea48a3109835c063926898e9adc019ccdccdcf6a35c0cbd3f55/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f524e3846646142365431626b6b49356e34492f67697068792e676966" width="130"/>
 </div>
 
 ### Hi there! I'm Diego Bravi. 👋
