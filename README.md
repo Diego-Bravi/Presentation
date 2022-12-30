@@ -9,7 +9,7 @@
 
 <h2>-I learned Differents Lenguages :</h2>
 
-<div style="display: column"> 
+<div style="display: inline-block"> 
 <h3> Front End Development </h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="80" height="80" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  title="HTML" alt="HTML" width="80" height="80"/>&nbsp;
@@ -17,7 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="React" alt"React" width="80" heigth=""80/>&nbsp;              
 </div>
 
-<div style="display: column"> 
+<div style="display: inline-block"> 
   <h3> Back End Development </h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="80" height="80" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  title="HTML" alt="HTML" width="80" height="80"/>&nbsp;
