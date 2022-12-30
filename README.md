@@ -4,7 +4,7 @@
 
 ### Hi there! I'm Diego Bravi. 👋
 
--I am from Argentina, I am a Analyst System Student, Im passionate about technology and I am looking for the opportunity to have my first job as a programmer!
+-I am from Argentina, I am a Analyst System Student, I am passionate about technology and I am looking for the opportunity to have my first job as a programmer!
 
 
 <h2>-I learned Differents Lenguages :</h2>
