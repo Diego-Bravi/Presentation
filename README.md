@@ -9,16 +9,16 @@
 
 <h2>-I learned Differents Lenguages :</h2>
 
+<div style="display: column"> 
 <h3> Front End Development </h3>
-<div style="display: inline_block"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="80" height="80" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  title="HTML" alt="HTML" width="80" height="80"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="80" height="80" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="React" alt"React" width="80" heigth=""80/>&nbsp;              
 </div>
 
-<h3> Back End Development </h3>
-<div style="display: inline_block"> 
+<div style="display: column"> 
+  <h3> Back End Development </h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="80" height="80" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  title="HTML" alt="HTML" width="80" height="80"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="80" height="80" />&nbsp;
