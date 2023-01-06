@@ -4,7 +4,12 @@
 
 ### Hi there! I'm Diego Bravi. 👋
 
-I am from Argentina, I am a Analyst System Student, I am passionate about technology and I am looking for the opportunity to have my first job as a programmer!
+I am from Argentina, I am a Analyst System Student. Growing programmer who is
+studying for a Systems Analyst
+degree, specializes in React
+language. I like to practice new
+languages and learn with new
+challenges.
 
 
 <h2>-I learned Differents Lenguages :</h2>
