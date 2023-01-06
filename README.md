@@ -4,12 +4,13 @@
 
 ### Hi there! I'm Diego Bravi. 👋
 
-I am from Argentina, I am a Analyst System Student. Growing programmer who is
+I am from Argentina, I am a Analyst System Student. 
+<p>Growing programmer who is
 studying for a Systems Analyst
 degree, specializes in React
 language. I like to practice new
 languages and learn with new
-challenges.
+challenges.</p>
 
 
 <h2>-I learned Differents Lenguages :</h2>
