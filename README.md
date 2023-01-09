@@ -4,9 +4,9 @@
 
 ### Hi there! I'm Diego Bravi. 👋
 
-I am Growing programmer who is studying for a Systems Analyst degree, specializes in React language. I like to practice new languages and learn with new challenges.
+I am growing programmer, student of Systems Analyst career, I am specializing in React language and the development of web pages, I am a proactive person who likes to learn with new challenges.
 
-If you want to know me a little more, I invite you to connect through LinkedIn or by my email !
+If you want to know me a little more, I invite you to connect through LinkedIn or by my email 
 
 
 <h2>-I learned Differents Lenguages :</h2>
