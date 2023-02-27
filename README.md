@@ -27,6 +27,8 @@ If you want to know me a little more, I invite you to connect through LinkedIn o
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  title="Node" alt="Node" width="80" height="80"/>&nbsp; 
   <img src="https://cdn-icons-png.flaticon.com/512/732/732218.png"  title="Access" alt="Access" width="80" height="80"/>&nbsp; 
   <img src="https://seeklogo.com/images/P/postman-logo-5110850F84-seeklogo.com.png"  title="POSTMAN" alt="POSTMAN" width="150" height="60"/>&nbsp; 
+  <img src="https://w7.pngwing.com/pngs/63/19/png-transparent-mongodb-database-nosql-postgresql-mongo-text-logo-business-thumbnail.png"  title="MONGO" alt="MONGO" width="150" height="60"/>&nbsp; 
+
 
 </div>
 
