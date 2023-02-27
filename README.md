@@ -35,5 +35,5 @@ If you want to know me a little more, I invite you to connect through LinkedIn o
 <h2>Contact me</h2>
 
   <a href = "mailto:diegobravi97@gmail.com" target ="diegobravi97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/diego-bravi"  target ="www.linkedin.com/in/diego-bravi"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/in/diego-bravi"  target ="www.linkedin.com/in/diego-bravi"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="www.linkedin.com/in/diego-bravi"></a> 
 
