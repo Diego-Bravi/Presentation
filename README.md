@@ -4,7 +4,8 @@
 
 ### Hi there! I'm Diego Bravi. 👋
 
-I am a growing programmer, student of Systems Analyst career, I am specializing in React language and development of web pages, I am a proactive person who likes to learn with new challenges.
+Student of Systems Analyst career and software developer. Able to provide design, development, testing and maintenance of software systems. Proficient in various platforms and languages, mainly focusing on C# and React. Able to effectively self-manage by being a fast learner, proactive and committed.
+
 
 If you want to know me a little more, I invite you to connect through LinkedIn or by my email 
 
