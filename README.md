@@ -18,7 +18,7 @@ If you would like to know more about me, I invite you to connect through LinkedI
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  title="HTML" alt="HTML" width="80" height="80"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="80" height="80" />&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" title="C#" alt="C#" width="80" height="80" />&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Webflow_logo_2023.svg" title="C#" alt="C#" width="100" height="100" />&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Webflow_logo_2023.svg" title="WebFlow" alt="WebFlow" width="100" height="100" />&nbsp;
 
   
 </div>
@@ -29,7 +29,7 @@ If you would like to know more about me, I invite you to connect through LinkedI
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  title="Node" alt="Node" width="80" height="80"/>&nbsp;
   <img src="https://seeklogo.com/images/P/postman-logo-5110850F84-seeklogo.com.png"  title="POSTMAN" alt="POSTMAN" width="150" height="60"/>&nbsp; 
   <img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-Transparent.png"  title="MONGO" alt="MONGO" width="80" height="80"/>&nbsp; 
-  <img src="https://cdn.xano.com/home2/assets/img/global/xano-blue.svg"  title="MONGO" alt="MONGO" width="80" height="80"/>&nbsp; 
+  <img src="https://cdn.xano.com/home2/assets/img/global/xano-blue.svg"  title="XANO" alt="XANO" width="80" height="80"/>&nbsp; 
 
 
 </div>
