@@ -2,13 +2,13 @@
 <img src="https://camo.githubusercontent.com/b2213aad903c8ea48a3109835c063926898e9adc019ccdccdcf6a35c0cbd3f55/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f524e3846646142365431626b6b49356e34492f67697068792e676966" width="130"/>
 </div>
 
-### Hi there! I'm Diego Bravi. 👋
+### Hey! I'm Diego Bravi. 👋
 
-Student of Systems Analyst career and software developer. Able to provide design, development, testing and maintenance of software systems. Proficient in various platforms and languages, mainly focusing on C# and React. Able to effectively self-manage by being a fast learner, proactive and committed.
+Systems Analyst student advancing in my career, I am currently working in the role of QA Analyst. I contribute to the team by providing quality assurance for the complete maintenance of the software, I possess strong communication skills with team and clients. I also have knowledge in web application development, tabulation, and database management. I am able to effectively self-manage, being a quick, proactive, and committed learner.
 
+If you would like to know more about me, I invite you to connect through LinkedIn
 
-If you want to know me a little more, I invite you to connect through LinkedIn or by my email 
-
+https://www.linkedin.com/in/diego-bravi/
 
 <h2>-I learned Differents Lenguages :</h2>
 
