@@ -8,9 +8,8 @@ Systems Analyst student advancing in my career, I am currently working in the ro
 
 If you would like to know more about me, I invite you to connect through LinkedIn
 
-https://www.linkedin.com/in/diego-bravi/
 
-<h2>-I learned Differents Lenguages :</h2>
+<h2>-I learned Differents Lenguages and Tools :</h2>
 
 <div style="display: inline-block"> 
 <h3> Front End Development </h3>
@@ -19,7 +18,7 @@ https://www.linkedin.com/in/diego-bravi/
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  title="HTML" alt="HTML" width="80" height="80"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="80" height="80" />&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" title="C#" alt="C#" width="80" height="80" />&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Webflow_logo_2023.svg" title="C#" alt="C#" width="80" height="80" />&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Webflow_logo_2023.svg" title="C#" alt="C#" width="100" height="100" />&nbsp;
 
   
 </div>
@@ -27,8 +26,7 @@ https://www.linkedin.com/in/diego-bravi/
 <div style="display: inline-block"> 
   <h3> Back End Development </h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  title="MySQL" alt="MySQL" width="80" height="80" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  title="Node" alt="Node" width="80" height="80"/>&nbsp; 
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732218.png"  title="Access" alt="Access" width="80" height="80"/>&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  title="Node" alt="Node" width="80" height="80"/>&nbsp;
   <img src="https://seeklogo.com/images/P/postman-logo-5110850F84-seeklogo.com.png"  title="POSTMAN" alt="POSTMAN" width="150" height="60"/>&nbsp; 
   <img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-Transparent.png"  title="MONGO" alt="MONGO" width="80" height="80"/>&nbsp; 
   <img src="https://cdn.xano.com/home2/assets/img/global/xano-blue.svg"  title="MONGO" alt="MONGO" width="80" height="80"/>&nbsp; 
